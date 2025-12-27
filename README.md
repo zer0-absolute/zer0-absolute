@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Zero
 
-<!--
-**zer0-absolute/zer0-absolute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate in Artificial Intelligence & Machine Learning**  
+🐧 **Linux Enthusiast | Open Source Explorer**  
+🤖 **Interested in AI, ML, and Deep Learning**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔥 Passionate about **Linux and Open Source**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning & Deep Learning**
+- 💻 Daily driver: **Arch Linux**
+- 🌱 Constantly learning and improving
+- 🛠️ Interested in system-level and AI-based projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Operating System
+- Arch Linux
+
+### 🧠 AI / ML
+- Python  
+- TensorFlow  
+- PyTorch  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Node.js  
+
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
+
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- Linux CLI  
+- Bash
+- Docker
+
+---
+
+## 📫 Contact Me
+💬 **Discord:** \_\_absolute_zero_  
+
+---
+
+⭐ *Always learning. Always building. Open to collaboration.*
